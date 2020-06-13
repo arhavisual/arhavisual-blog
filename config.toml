@@ -1,6 +1,7 @@
 baseurl = "https://arhavisual.netlify.app"  # Include trailing slash
 title = "Newsroom"
 author = "Weru"
+theme = "Newsroom"
 copyright = "Copyright © 2019, Weru and the Hugo Authors; all rights reserved."
 canonifyurls = true
 paginate = 3
